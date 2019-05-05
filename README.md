@@ -1,5 +1,8 @@
 # Git
 
+I created this guide to help everyone to execute git command step by step.
+This guide follow the oneflow method
+
 ## Config
 
 ```sh
@@ -116,3 +119,6 @@ git branch -d hotfix/1.0.1
 git push origin :hotfix/1.0.1
 ```
 
+## Sources
+
+- https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
